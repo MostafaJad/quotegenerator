@@ -1,0 +1,35 @@
+.quote-generator {
+
+        text-align: center; 
+        
+      }
+      
+      .quote-text {
+        font-size: 3em; 
+        color: white;
+        text-shadow: 0 1px 0 black; 
+      }
+      
+      .author {
+        font-size: 1.2em; 
+        color: #cccccc;
+        margin-top: 20px; 
+      }
+      
+      .get-quote-button {
+        background-color: #428bca; 
+        color: white;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 5px; 
+        cursor: pointer;
+        margin-top: 30px; 
+      }
+      span{
+        color: rgb(6, 19, 47)
+      }
+      body {
+        --background-color: lightblue; /* Initial color */
+        background: var(--background-color)
+        /* ... rest of your body styles ... */
+      }
